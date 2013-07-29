@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- <color name="default_list_background">#ffaacc</color> -->
+    <color name="default_list_background">#fcfcfc</color>
+    <color name="default_list_selected_background">#8f8f8f</color>
+    <color name="default_list_section_header_bg">#fcfcfc</color>
+    <color name="more_function_item_backgroud">#fcfcfc</color>
+    <color name="more_function_item_selected_backgroud">#8f8f8f</color>
+    <color name="font_white">#8f8f8f</color>
+    <color name="font_black">#000000</color>
+    <color name="minipf_visit_plus_home">#8f8f8f</color>
+    <color name="minipf_plus_friends_count">#ffffff</color>
+    <color name="chat_room_unread">#000000</color>
+
+</resources>
